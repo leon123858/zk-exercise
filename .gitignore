@@ -1,0 +1,4 @@
+node_modules/
+*.zkey
+*.ptau
+.DS_Store
